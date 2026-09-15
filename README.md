@@ -1,1 +1,1 @@
-This repo contains bio and 3 chapter from my original thesis
+This repo contains my bio and the 3 chapter from my original thesis
